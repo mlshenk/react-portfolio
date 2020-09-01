@@ -1,0 +1,25 @@
+{
+  "short_name": "MikeS",
+  "name": "Mike Shenk",
+  "icons": [
+    {
+      "src": "mike-shenk-pentagon-logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "mike-shenk-pentagon-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "mike-shenk-pentagon-logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

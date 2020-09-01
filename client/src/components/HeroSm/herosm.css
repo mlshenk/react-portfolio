@@ -1,0 +1,20 @@
+.pageheader {
+    text-align: center;
+    font-family:'Libre Franklin', sans-serif;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 4px black;
+    font-weight: 500;
+    color: #FFC72C;
+    padding: 30px;
+    margin: 0;
+    background-image: url("/images/golden-gate-bridge.JPG");
+    alt: "golden-gate-bridge";
+    background-attachment: scroll;
+    background-position: 50% 20%;
+    background-size: cover; 
+}
+
+header h1 {
+    margin: 0;
+}
+
