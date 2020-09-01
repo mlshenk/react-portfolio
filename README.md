@@ -7,8 +7,8 @@
   ## Questions
 
   * GitHub: [MLShenk](https://github.com/mlshenk)
-  * Email: [mike.L.shenk@gmail.com](mailto:Mike.L.Shenk@gmail.com)
+  * Email: [Mike.L.Shenk@gmail.com](mailto:Mike.L.Shenk@gmail.com)
   
   Feel free to email me! 
   ## Links/Images
-  [Click For Deployed Application](https://vav-portfolio.herokuapp.com/)
+  [Click For Deployed Application](https://mls-portfolio.herokuapp.com/)
