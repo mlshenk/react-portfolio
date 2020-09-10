@@ -1,20 +1,21 @@
 /* hero img (unsplash img GGB) */
 section .hero {
-    background-image: url("/../images/golden-gate-bridge.jpg");
+    background-image: url("../../images/golden-gate-bridge.jpg");
     alt: "golden-gate-bridge";
-    height: 510px;
+    height: 550px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover; 
+    border-bottom: 5px double #FFC72C;
 }
 
 /* turning off parallax on small viewports*/
 @media only screen and (max-device-width: 475px) {
     section .hero {
-        background-image: url("/../images/golden-gate-bridge.jpg");
+        background-image: url("../../images/golden-gate-bridge.jpg");
         alt: "golden-gate-bridge";
-        height: 510px;
+        height: 550px;
         background-attachment: scroll;
         background-repeat: no-repeat;
         background-position: 50% 30%;
