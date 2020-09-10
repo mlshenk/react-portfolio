@@ -12,7 +12,7 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 }
 
-// Sending every other request to VincentV.com react app
+// Sending every other request to MikeShenk react app
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
