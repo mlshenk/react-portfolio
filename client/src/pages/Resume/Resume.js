@@ -10,7 +10,7 @@ function Resume() {
     <section className="container">
       <figure className="row justify-content-center">
         <div className="col-sm-4 col-xs-8">
-          <img className="img-fluid" id="biopic" src="./images/linkedin-headshot.jpg" alt="profilepic"/>
+          <img className="img-fluid" id="biopic" src="./images/linkedin-headshot2020.jpg" alt="profilepic"/>
         </div>
       </figure>
       <figure className="row justify-content-center iframe-figure-div">

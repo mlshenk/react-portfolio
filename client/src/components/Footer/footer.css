@@ -2,6 +2,7 @@ footer {
     text-align: center;
     color: #FFC72C;
     background-color:#041E42;
+    border-top: 2px solid #FFC72C;
 }
 
 #sticky-footer {

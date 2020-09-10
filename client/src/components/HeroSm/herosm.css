@@ -5,7 +5,7 @@
     text-shadow: 1px 1px 4px black;
     font-weight: 500;
     color: #FFC72C;
-    padding: 30px;
+    padding: 60px;
     margin: 0;
     background-image: url("../../images/golden-gate-bridge.jpg");
     alt: "golden-gate-bridge";
@@ -13,6 +13,7 @@
     background-position: 50% 20%;
     background-size: cover; 
     height: 200px;
+    border-bottom: 1px solid #041E42;;
 }
 
 header h1 {
