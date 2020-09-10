@@ -1,9 +1,9 @@
 /* bio profile picture */
 #biopic {
     position: relative;
-    bottom: 100px;
+    bottom: 120px;
     padding: none none;
-    border-radius: 70px;
+    border-radius: 100px;
     margin-bottom: 20px;
     border: 1px solid #041E42;
     /* width: 100%;
