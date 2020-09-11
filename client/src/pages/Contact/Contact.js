@@ -20,8 +20,8 @@ export default function Contact() {
                     <a href="https://github.com/mlshenk">
                         <img className="sm-logos" src="./images/github.png" alt="githublogo" target="_blank" />
                     </a>
+                <Watermark/>
                 </section>
-            <Watermark/>
             </section>
         </>
     )
