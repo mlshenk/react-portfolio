@@ -3,9 +3,9 @@
     position: relative;
     bottom: 120px;
     padding: none none;
+    border: 1px solid #041E42;
     border-radius: 100px;
     margin-bottom: 20px;
-    border: 1px solid #041E42;
     /* width: 100%;
     height: auto;
     max-width: 350px;

@@ -1,13 +1,12 @@
 import React from 'react'
-import HeroSm from '../../components/HeroSm/herosm'
+import Hero from '../../components/Hero/hero'
 import Watermark from '../../components/Watermark/watermark'
 import './contact.css'
 
 export default function Contact() {
     return (
         <>
-            <HeroSm header="Contact" />
-
+            <Hero header="Contact" />
             <section className="row justify-content-center">
                 <section className="col-9 thankyou">
                     <h2>Thank You</h2>
@@ -22,8 +21,8 @@ export default function Contact() {
                         <img className="sm-logos" src="./images/github.png" alt="githublogo" target="_blank" />
                     </a>
                 </section>
-            </section>
             <Watermark/>
+            </section>
         </>
     )
 }

@@ -14,7 +14,9 @@
     color: #324159;
     margin-top: 20px
 }
-
+h2 {
+    font-weight: bolder
+}
 .email-link{
     color: #324159;
 }
