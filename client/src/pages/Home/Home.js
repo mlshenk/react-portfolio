@@ -5,7 +5,7 @@ import './home.css';
 function Home() {
   return (
     <>
-    <Hero text="Mike Shenk"/>
+    <Hero/>
     <section className="container">
       <figure className="row justify-content-center">
         <div className="col-sm-4 col-xs-8">

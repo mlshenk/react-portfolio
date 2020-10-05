@@ -7,7 +7,7 @@ export default function Navbar() {
         <a href="/"><img src="./images/mike-shenk-pentagon-logo.png" className="logo" alt="logo"/></a>
         <div className="d-flex flex-grow-1">
           <span className="w-100 d-lg-none d-block"></span>
-          <a href="/"><h1 className="myName"> MS</h1></a>
+          <a href="/"><h1 className="myName"> Mike Shenk</h1></a>
           <div className="w-100 text-right hamburger">
             <button className="navbar-toggler " type="button" data-toggle="collapse" data-target="#myNavbarX">
               <span className="navbar-toggler-icon"></span>
