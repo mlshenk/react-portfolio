@@ -25,10 +25,10 @@ section .hero {
 
 /* hero text */
 section figure h1 {
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Arvo', sans-serif;
     text-align: center;
     text-shadow: 1px 1px 4px #041E42;
-    font-weight: 510;
+    font-weight: 700;
 
     text-transform: uppercase;
     color: #FFC72C;
