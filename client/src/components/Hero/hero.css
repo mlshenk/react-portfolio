@@ -1,6 +1,6 @@
 /* hero img (unsplash img GGB) */
 section .hero {
-    background-image: url("../../images/golden-gate-bridge.jpg");
+    background-image: url("../../images/cal-oars.JPG");
     alt: "golden-gate-bridge";
     height: 550px;
     background-attachment: fixed;
@@ -13,7 +13,7 @@ section .hero {
 /* turning off parallax on small viewports*/
 @media only screen and (max-device-width: 475px) {
     section .hero {
-        background-image: url("../../images/golden-gate-bridge.jpg");
+        background-image: url("../../images/cal-oars.JPG");
         alt: "golden-gate-bridge";
         height: 550px;
         background-attachment: scroll;

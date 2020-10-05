@@ -9,8 +9,8 @@ export default function Contact() {
             <Hero header="Contact" />
             <section className="row justify-content-center">
                 <section className="col-9 thankyou">
-                    <h2>Thank You</h2>
-                    <p>Thank you for visiting my portfolio!<br />Please feel free to send me an email and get in touch. <br /> You can also find links to my social media. I'd love to connect. <br /> Stay safe and let's create something together!</p>
+                    <h1>Thank You!</h1>
+                    <p>Thank you for visiting my portfolio!<br />Please feel free to send me an email and get in touch. <br /> Below are links to my social media. I'd love to connect. <br /> Stay safe and let's create something together!</p>
                     <a className="email-link" href="mailto:Mike.L.Shenk@gmail.com"><strong>Mike.L.Shenk@gmail.com</strong></a>
                     <br />
                     <br />
