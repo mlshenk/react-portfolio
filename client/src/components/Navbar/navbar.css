@@ -1,5 +1,6 @@
 .myName {
     font-family: 'Arvo', sans-serif;
+    justify-content: center;
     text-align: center;
     color:#041E42;
     padding-top: .6rem;
@@ -7,8 +8,8 @@
     white-space: nowrap;
     font-size: 30px;
     text-transform: uppercase;
-    margin-left: 296%;
-    /* text-shadow: 1px 1px 4px #041E42; */
+    margin-left: 295%;
+    /* text-shadow: 1px 1px 4px #git; */
 }
 
 .d-flex a:hover {
