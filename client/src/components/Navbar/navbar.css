@@ -1,7 +1,5 @@
 .myName {
-    justify-content: center;
-    align-items: center;
-    font-family: 'Times New Roman', sans-serif;
+    font-family: 'Verdana', sans-serif;
     text-align: center;
     color:#1a3f6a;
     padding-top: .6rem;
@@ -9,6 +7,7 @@
     white-space: nowrap;
     font-size: 30px;
     text-transform: uppercase;
+    opacity: 0%;
 }
 
 .d-flex a:hover {
@@ -20,6 +19,8 @@
 }
 .navbackground {
     background-color: whitesmoke;
+    border-bottom: 1px solid #FFC72C;
+    position: static;
 }
 
 .logo {

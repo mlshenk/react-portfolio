@@ -21,14 +21,16 @@
     bottom: 100px;
     border-radius: 70px;
 }
-.sm-logos {
-    width: 50px;
-    height: auto;
-    border-color: #324159;
+.linkedin  {
+    width: 75px;
+    height: 75px;
+    border-color: #FFC72C;
     border-style: solid;
     border-radius: 10px;
     margin: 5px;
     margin-top: 0px;
+    margin-left: 45%;
+    margin-bottom: 45px;
 }
 .resume-link{
     position: relative;
@@ -37,6 +39,11 @@
     display: none;
 }
 
+.section article p {
+    font-family: 'Roboto', sans-serif;
+    position: fixed;
+    bottom: 100px;
+}
 /* Displaying link to resume for smaller screens (iFrame not sizing correctly) */
 @media only screen and (max-device-width: 475px) {
     .resume-window {
