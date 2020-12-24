@@ -11,7 +11,7 @@ export default function Contact() {
                 <section className="col-9 thankyou">
                     <h1>Thank You!</h1>
                     <p>Thank you for visiting my portfolio!<br />Please feel free to send me an email and get in touch. <br /> Below are links to my social media. I'd love to connect. <br /> Stay safe and let's create something together!</p>
-                    <a className="email-link" href="mailto:Mike.L.Shenk@gmail.com"><strong>Mike.L.Shenk@gmail.com</strong></a>
+                    <a className="email-link" href="mailto:mike@michaelshenk.com"><strong>Mike@MichaelShenk.com</strong></a>
                     <br />
                     <br />
                     <a href="https://www.linkedin.com/in/michaelshenk415/">
