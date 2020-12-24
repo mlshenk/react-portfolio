@@ -9,7 +9,7 @@ function Home() {
     <section className="container">
       <figure className="row justify-content-center">
         <div className="col-sm-4 col-xs-8">
-          <img className="img-fluid" id="profile-pic" src="./images/linkedin-headshot2020.jpg" alt="profilepic"/>
+          <img className="img-fluid" id="profile-pic" src="./images/kraken-headshot.jpg" alt="profilepic"/>
         </div>
       </figure>
       <article className="bio row justify-content-sm-center">  
